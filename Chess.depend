@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1528644523 source:c:\users\mc tan4eto\desktop\fmi\oop\chess\main.cpp
+	<iostream>
+	"ChessPosition.h"
+	"ChessPiece.h"
+	"Knight.h"
+	"Rook.h"
+
+1528553391 c:\users\mc tan4eto\desktop\fmi\oop\chess\chessposition.h
+	<iostream>
+
+1528644582 c:\users\mc tan4eto\desktop\fmi\oop\chess\chesspiece.h
+	"ChessPosition.h"
+
+1528644523 c:\users\mc tan4eto\desktop\fmi\oop\chess\knight.h
+	"ChessPiece.h"
+
+1528644625 source:c:\users\mc tan4eto\desktop\fmi\oop\chess\knight.cpp
+	"Knight.h"
+
+1528644652 source:c:\users\mc tan4eto\desktop\fmi\oop\chess\rook.cpp
+	"Rook.h"
+
+1528644523 c:\users\mc tan4eto\desktop\fmi\oop\chess\rook.h
+	"ChessPiece.h"
+
